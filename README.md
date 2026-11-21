@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Hi, I'm Tahmid 👋
-  ### Aspiring Web Developer & Continuous Learner
+  # Hi, I'm Tamim 👋
+  ### Continuous Learner
 
   <p align="center">
     <a href="https://github.com/Tamim-Tahmid-Islam">
