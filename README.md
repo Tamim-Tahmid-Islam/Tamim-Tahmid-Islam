@@ -10,8 +10,10 @@
   </p>
 
   <p align="center">
-    <a href="mailto:tamimtahmid270@gmail.com"><img src="https://img.shields.io/badge/Email-tamimtahmid270%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Tamim-Tahmid-Islam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Tamim-Tahmid-Islam"><img src="https://img.shields.io/badge/GitHub-Tamim--Tahmid--Islam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/a_walkin_flex"><img src="https://img.shields.io/badge/Instagram-a__walkin__flex-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.facebook.com/tamim.tahmid.27"><img src="https://img.shields.io/badge/Facebook-tamim.tahmid.27-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="mailto:tamimtahmid270@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -22,7 +24,7 @@
 - 📚 **Current Focus**: Learning the fundamentals and modern practices of web development.
 - 💡 **Philosophy**: Believing in learning by building, writing clean code, and improving every day.
 - 🔍 **Exploring**: Web development foundations, backend logic, and database management.
-- 📫 **Get in touch**: Feel free to reach out via [Email](mailto:tamimtahmid270@gmail.com) for learning resources, discussions, or feedback!
+- 📫 **Get in touch**: Connect with me on [GitHub](https://github.com/Tamim-Tahmid-Islam), [Instagram](https://www.instagram.com/a_walkin_flex), or [Facebook](https://www.facebook.com/tamim.tahmid.27)!
 
 ---
 
